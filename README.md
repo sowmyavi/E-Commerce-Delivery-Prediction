@@ -15,9 +15,13 @@ The dataset comprises 10999 observations across 12 variables, detailing customer
 
 ## Methodology
 **Data Preprocessing**: Cleaned and prepared data, handling missing values, duplicates, and irrelevant columns.
+
 **Exploratory Data Analysis (EDA)**: Investigated distribution of variables, customer behavior, and logistics factors using visualizations.
+
 **Feature Engineering**: Transformed categorical variables using label encoding.
+
 **Model Building**: Deployed machine learning models like Random Forest, Decision Tree, Logistic Regression, and KNN to predict delivery outcomes.
+
 **Model Evaluation**: Assessed models based on accuracy, confusion matrix, and classification reports.
 
 ## Key Insights
